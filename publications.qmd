@@ -2,4 +2,19 @@
 title: "Publications"
 ---
 
-*Coming soon.*
+## Peer-Reviewed Articles
+
+1. Michael Moody, [coauthors].
+"[Quantum speed limit for observables from quantum asymmetry](https://journals.aps.org/pra/abstract/10.1103/tfnt-58sw)"
+*Physical Review A* **113**, 042450 (2026).
+\[[arXiv:2511.16526](https://arxiv.org/abs/2511.16526)\]
+
+## Preprints
+
+No preprints at this time.
+
+## Manuscripts in Preparation
+
+1. Michael J. Moody and Sebastian Deffner.
+"Observable quantum speed limits for Markovian open quantum systems."
+In preparation.

@@ -4,7 +4,7 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Coming soon."
+    "text": "Michael Moody, [coauthors]. “Quantum speed limit for observables from quantum asymmetry” Physical Review A 113, 042450 (2026). [arXiv:2511.16526]"
   },
   {
     "objectID": "index.html",
@@ -82,5 +82,26 @@
     "title": "Research",
     "section": "Current Research",
     "text": "Current Research\nMy current work concerns quantum speed limits for observable dynamics. In contrast to approaches based primarily on distinguishability between quantum states, this perspective focuses on the rate at which physically measurable quantities change in time.\nI am currently studying extensions of observable-based quantum speed limits to Markovian open quantum systems. The goal is to understand how coherent Hamiltonian evolution and dissipative environmental effects contribute separately to observable motion. This includes studying conditions under which an observable has vanishing speed, how dissipative terms modify closed-system bounds, and how geometric structure in quantum state space can be used to characterize special dynamical regimes."
+  },
+  {
+    "objectID": "publications.html#peer-reviewed-articles",
+    "href": "publications.html#peer-reviewed-articles",
+    "title": "Publications",
+    "section": "",
+    "text": "Michael Moody, [coauthors]. “Quantum speed limit for observables from quantum asymmetry” Physical Review A 113, 042450 (2026). [arXiv:2511.16526]"
+  },
+  {
+    "objectID": "publications.html#preprints",
+    "href": "publications.html#preprints",
+    "title": "Publications",
+    "section": "Preprints",
+    "text": "Preprints\nNo preprints at this time."
+  },
+  {
+    "objectID": "publications.html#manuscripts-in-preparation",
+    "href": "publications.html#manuscripts-in-preparation",
+    "title": "Publications",
+    "section": "Manuscripts in Preparation",
+    "text": "Manuscripts in Preparation\n\nMichael J. Moody and Sebastian Deffner. “Observable quantum speed limits for Markovian open quantum systems.” In preparation."
   }
 ]
