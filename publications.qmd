@@ -17,4 +17,3 @@ No preprints at this time.
 
 1. Michael J. Moody and Sebastian Deffner.
 "Observable quantum speed limits for Markovian open quantum systems."
-In preparation.
