@@ -21,7 +21,7 @@ website:
       - href: notes.qmd
         text: Notes
       - href: miscellaneous.qmd
-        text: Misc
+        text: Miscellaneous
 
 format:
   html:
