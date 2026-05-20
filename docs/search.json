@@ -25,7 +25,7 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Coming soon."
+    "text": "[Description of your work and interests in open quantum systems.]"
   },
   {
     "objectID": "research.html#working-papers",
@@ -54,5 +54,26 @@
     "title": "Miscellaneous",
     "section": "",
     "text": "Coming soon."
+  },
+  {
+    "objectID": "research.html#open-quantum-systems",
+    "href": "research.html#open-quantum-systems",
+    "title": "Research",
+    "section": "",
+    "text": "[Description of your work and interests in open quantum systems.]"
+  },
+  {
+    "objectID": "research.html#differential-topology",
+    "href": "research.html#differential-topology",
+    "title": "Research",
+    "section": "Differential Topology",
+    "text": "Differential Topology\n[Description of your work and interests in differential topology.]"
+  },
+  {
+    "objectID": "research.html#dynamical-systems",
+    "href": "research.html#dynamical-systems",
+    "title": "Research",
+    "section": "Dynamical Systems",
+    "text": "Dynamical Systems\n[Description of your work and interests in dynamical systems.]"
   }
 ]

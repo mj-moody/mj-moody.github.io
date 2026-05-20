@@ -2,10 +2,14 @@
 title: "Research"
 ---
 
-## Working Papers
+## Open Quantum Systems
 
-*Coming soon.*
+[Description of your work and interests in open quantum systems.]
 
-## Works in Progress
+## Differential Topology
 
-*Coming soon.*
+[Description of your work and interests in differential topology.]
+
+## Dynamical Systems
+
+[Description of your work and interests in dynamical systems.]
