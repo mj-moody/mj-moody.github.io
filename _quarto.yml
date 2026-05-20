@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Michael J. Moody"
+  search: false
   navbar:
     left:
       - href: index.qmd
@@ -21,7 +22,7 @@ website:
 
 format:
   html:
-    theme: none
+    theme: flatly
     css: styles.css
     toc: false
     page-layout: article

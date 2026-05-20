@@ -4,16 +4,35 @@ body {
   line-height: 1.7;
   color: #111;
   background-color: #fff;
-  max-width: 700px;
-  margin: 0 auto;
-  padding: 2rem 1.5rem;
 }
 
-h1, h2, h3 {
-  font-weight: normal;
-  margin-top: 2rem;
+/* plain white navbar */
+.navbar {
+  background-color: #fff !important;
+  border-bottom: 1px solid #ddd;
+  box-shadow: none;
+  height: 56px;
 }
 
+.navbar-brand,
+.navbar-brand:hover {
+  color: #111 !important;
+  font-weight: bold;
+  font-family: Georgia, serif;
+}
+
+.nav-link,
+.nav-link:hover {
+  color: #111 !important;
+  font-family: Georgia, serif;
+  font-size: 15px;
+}
+
+.nav-link:hover {
+  text-decoration: underline;
+}
+
+/* plain links */
 a {
   color: #111111;
   text-decoration: underline;
@@ -23,19 +42,67 @@ a:hover {
   color: #555;
 }
 
-nav {
-  margin-bottom: 2rem;
-  border-bottom: 1px solid #ddd;
-  padding-bottom: 0.75rem;
-}
-
-.navbar-brand {
-  font-weight: bold;
-  text-decoration: none;
+h1, h2, h3 {
+  font-weight: normal;
+  margin-top: 2rem;
 }
 
 hr {
   border: none;
   border-top: 1px solid #ddd;
   margin: 2rem 0;
+}
+
+/* constrain content width on inner pages */
+.page-layout-article .quarto-container {
+  max-width: 750px;
+}
+
+/* strip quarto's inner container constraints on home page */
+.page-layout-full #quarto-content,
+.page-layout-full #quarto-document-content,
+.page-layout-full .quarto-container {
+  max-width: 100% !important;
+  width: 100% !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+/* prevent scroll on home page */
+body:has(.home-layout) {
+  overflow: hidden;
+}
+
+/* home page layout */
+:root {
+  --nav-h: 64px;
+  --photo-gap: 3rem;
+}
+
+.home-layout {
+  position: relative;
+  width: 100vw;
+  height: calc(100vh - var(--nav-h));
+  overflow: hidden;
+}
+
+.home-left {
+  position: absolute;
+  left: 5%;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 35%;
+}
+
+.home-right {
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.home-right img {
+  height: calc(100vh - var(--nav-h) - var(--photo-gap) * 2);
+  width: auto;
+  display: block;
 }

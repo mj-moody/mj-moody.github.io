@@ -1,11 +1,18 @@
 ---
-title: "Michael J. Moody"
+pagetitle: "Michael J. Moody"
+page-layout: full
 ---
 
-PhD Candidate, [Department], [University]
-
-[A sentence or two about your research interests.]
-
----
-
-[cv.pdf](files/cv.pdf) &nbsp;·&nbsp; [GitHub](https://github.com/mj-moody) &nbsp;·&nbsp; [Email](mailto:mmoody1@umbc.edu)
+```{=html}
+<div class="home-layout">
+  <div class="home-left">
+    <p>Graduate Student in Physics, University of Delaware</p>
+    <p>[A sentence or two about your research interests.]</p>
+    <hr>
+    <p><a href="files/cv.pdf">CV</a> &nbsp;·&nbsp; <a href="mailto:mjmoody@udel.edu">Email</a> &nbsp;·&nbsp; <a href="https://github.com/mj-moody">GitHub</a></p>
+  </div>
+  <div class="home-right">
+    <img src="files/photo.png" alt="">
+  </div>
+</div>
+```
