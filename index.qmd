@@ -1,0 +1,11 @@
+---
+title: "Michael J. Moody"
+---
+
+PhD Candidate, [Department], [University]
+
+[A sentence or two about your research interests.]
+
+---
+
+[cv.pdf](files/cv.pdf) &nbsp;·&nbsp; [GitHub](https://github.com/mj-moody) &nbsp;·&nbsp; [Email](mailto:mmoody1@umbc.edu)

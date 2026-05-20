@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Michael J. Moody"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: talks.qmd
+        text: Talks
+      - href: notes.qmd
+        text: Notes
+      - href: miscellaneous.qmd
+        text: Miscellaneous
+
+format:
+  html:
+    theme: none
+    css: styles.css
+    toc: false
+    page-layout: article
