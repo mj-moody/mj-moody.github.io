@@ -6,6 +6,7 @@ website:
   title: "Michael J. Moody"
   search: false
   navbar:
+    pinned: true
     left:
       - href: index.qmd
         text: Home
