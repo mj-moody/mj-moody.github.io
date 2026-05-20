@@ -25,7 +25,7 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "[Description of your work and interests in open quantum systems.]"
+    "text": "My research interests are centered on mathematical and theoretical questions in quantum dynamics. I am especially interested in problems where physical intuition, analytic structure, and geometric methods interact."
   },
   {
     "objectID": "research.html#working-papers",
@@ -59,21 +59,28 @@
     "objectID": "research.html#open-quantum-systems",
     "href": "research.html#open-quantum-systems",
     "title": "Research",
-    "section": "",
-    "text": "[Description of your work and interests in open quantum systems.]"
+    "section": "Open Quantum Systems",
+    "text": "Open Quantum Systems\nI am interested in the mathematical structure of open quantum systems, including master equations, quantum channels, dissipative dynamics, and the distinction between coherent and environmental contributions to quantum evolution. I am particularly interested in how properties of observables evolve under open-system dynamics, and how this evolution can be bounded or characterized using tools from quantum information theory and mathematical physics."
   },
   {
     "objectID": "research.html#differential-topology",
     "href": "research.html#differential-topology",
     "title": "Research",
     "section": "Differential Topology",
-    "text": "Differential Topology\n[Description of your work and interests in differential topology.]"
+    "text": "Differential Topology\nI am interested in differential-topological methods and their applications to problems in physics. In particular, I am interested in how geometric structure, regular values, transversality, critical sets, and manifold methods can clarify the behavior of dynamical systems. My current interests include ways in which such tools can be used to study structured subsets of quantum state space."
   },
   {
     "objectID": "research.html#dynamical-systems",
     "href": "research.html#dynamical-systems",
     "title": "Research",
     "section": "Dynamical Systems",
-    "text": "Dynamical Systems\n[Description of your work and interests in dynamical systems.]"
+    "text": "Dynamical Systems\nI am broadly interested in dynamical systems, especially the relationship between qualitative behavior, invariant structures, stability, and long-time dynamics. I am interested in both classical and quantum settings, including flows, critical points, gradient-like dynamics, and the emergence of geometric structure from evolution equations."
+  },
+  {
+    "objectID": "research.html#current-research",
+    "href": "research.html#current-research",
+    "title": "Research",
+    "section": "Current Research",
+    "text": "Current Research\nMy current work concerns quantum speed limits for observable dynamics. In contrast to approaches based primarily on distinguishability between quantum states, this perspective focuses on the rate at which physically measurable quantities change in time.\nI am currently studying extensions of observable-based quantum speed limits to Markovian open quantum systems. The goal is to understand how coherent Hamiltonian evolution and dissipative environmental effects contribute separately to observable motion. This includes studying conditions under which an observable has vanishing speed, how dissipative terms modify closed-system bounds, and how geometric structure in quantum state space can be used to characterize special dynamical regimes."
   }
 ]
