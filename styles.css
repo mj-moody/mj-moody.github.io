@@ -14,6 +14,15 @@ body {
   height: 56px;
 }
 
+.navbar-collapse {
+  display: flex !important;
+  flex-basis: auto !important;
+}
+
+.navbar-toggler {
+  display: none !important;
+}
+
 .navbar-brand,
 .navbar-brand:hover {
   color: #111 !important;
