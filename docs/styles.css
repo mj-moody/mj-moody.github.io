@@ -25,7 +25,9 @@ body {
 .nav-link:hover {
   color: #111 !important;
   font-family: Georgia, serif;
-  font-size: 15px;
+  font-size: 14px;
+  padding-left: 0.6rem !important;
+  padding-right: 0.6rem !important;
 }
 
 .nav-link:hover {
