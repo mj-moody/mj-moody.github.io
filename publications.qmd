@@ -4,7 +4,7 @@ title: "Publications"
 
 ## Peer-Reviewed Articles
 
-1. Michael Moody, [coauthors].
+1. Agung Budiyono, Michael Moody, Hadyan L. Prihadi, Rafika Rahmawati, and Sebastian Deffner.
 "[Quantum speed limit for observables from quantum asymmetry](https://journals.aps.org/pra/abstract/10.1103/tfnt-58sw)"
 *Physical Review A* **113**, 042450 (2026).
 \[[arXiv:2511.16526](https://arxiv.org/abs/2511.16526)\]
