@@ -2,4 +2,11 @@
 title: "Miscellaneous"
 ---
 
-*Coming soon.*
+This page collects selected academic material that does not fit neatly into publications, talks, or formal notes. This includes selected undergraduate work, reading programs, and research-adjacent academic material.
+
+## Selected Undergraduate Work
+
+- **Thickness-Dependent Photoluminescence in Exfoliated WSe₂**
+  PHYS 431L, University of Maryland, Baltimore County, May 2026.
+  Presentation on optical evidence for monolayer WSe₂ using photoluminescence spectroscopy and A-exciton emission.
+  [Slides](files/phys431_monolayer.pptx)
