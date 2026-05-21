@@ -32,7 +32,7 @@
     "href": "index.html",
     "title": "Michael J. Moody",
     "section": "",
-    "text": "I am an incoming Physics PhD student at the University of Delaware. I am completing my undergraduate studies in physics and mathematics at the University of Maryland, Baltimore County.\n    My research interests lie broadly in open quantum systems, differential topology, dynamical systems, and mathematical physics. I am especially interested in problems where physical intuition can be sharpened through rigorous mathematical structure.\n    I am currently working on problems related to observable dynamics in open quantum systems, with emphasis on coherent and dissipative contributions to quantum speed limits.\n    \n    \n      mjmoody@udel.edu\n      Google Scholar\n      GitHub\n      CV (not yet complete)"
+    "text": "I am an incoming Physics PhD student at the University of Delaware. I am completing my undergraduate studies in physics and mathematics at the University of Maryland, Baltimore County.\n    My research interests lie broadly in open quantum systems, differential topology, dynamical systems, and mathematical physics. I am especially interested in problems where physical intuition can be sharpened through rigorous mathematical structure.\n    I am currently working on problems related to observable dynamics in open quantum systems, with emphasis on coherent and dissipative contributions to quantum speed limits.\n    \n    \n      mjmoody@udel.edu\n      Google Scholar\n      GitHub\n      CV"
   },
   {
     "objectID": "notes.html",
@@ -63,6 +63,13 @@
     "text": "Resources for Students\nComing soon."
   },
   {
+    "objectID": "teaching.html#tutoring",
+    "href": "teaching.html#tutoring",
+    "title": "Teaching",
+    "section": "Tutoring",
+    "text": "Tutoring\nPrivate tutoring in mathematics and physics may be available upon request."
+  },
+  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
@@ -74,7 +81,7 @@
     "href": "research.html#open-quantum-systems",
     "title": "Research",
     "section": "Open Quantum Systems",
-    "text": "Open Quantum Systems\nI am interested in the mathematical structure of open quantum systems, including master equations, quantum channels, dissipative dynamics, and the distinction between coherent and environmental contributions to quantum evolution. I am particularly interested in how properties of observables evolve under open-system dynamics, and how this evolution can be bounded or characterized using tools from quantum information theory and mathematical physics."
+    "text": "Open Quantum Systems\nI am interested in open quantum systems, including master equations, quantum channels, dissipation, and the distinction between coherent and environmental contributions to quantum evolution. I am particularly interested in how properties of observables evolve under open-system dynamics, and how this evolution can be bounded or characterized using tools from quantum information theory and mathematical physics. As a supporting direction, I am interested in computational methods for quantum systems, including numerical approaches based on tensor networks, TDVP, and DMRG."
   },
   {
     "objectID": "research.html#differential-topology",
@@ -88,7 +95,7 @@
     "href": "research.html#dynamical-systems",
     "title": "Research",
     "section": "Dynamical Systems",
-    "text": "Dynamical Systems\nI am broadly interested in dynamical systems, especially the relationship between qualitative behavior, invariant structures, stability, and long-time dynamics. I am interested in both classical and quantum settings, including flows, critical points, gradient-like dynamics, and the emergence of geometric structure from evolution equations."
+    "text": "Dynamical Systems\nI am interested in dynamical systems, especially the relationship between qualitative behavior, invariant structures, stability, and long-time dynamics. This includes classical and quantum settings, including flows, critical points, gradient-like dynamics, and the emergence of geometric structure from evolution equations."
   },
   {
     "objectID": "research.html#current-research",
