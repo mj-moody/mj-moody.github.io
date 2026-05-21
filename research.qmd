@@ -6,7 +6,7 @@ My research interests are centered on mathematical and theoretical questions in 
 
 ## Open Quantum Systems
 
-I am interested in the mathematical structure of open quantum systems, including master equations, quantum channels, dissipative dynamics, and the distinction between coherent and environmental contributions to quantum evolution. I am particularly interested in how properties of observables evolve under open-system dynamics, and how this evolution can be bounded or characterized using tools from quantum information theory and mathematical physics.
+I am interested in open quantum systems, including master equations, quantum channels, dissipation, and the distinction between coherent and environmental contributions to quantum evolution. I am particularly interested in how properties of observables evolve under open-system dynamics, and how this evolution can be bounded or characterized using tools from quantum information theory and mathematical physics. As a supporting direction, I am interested in computational methods for quantum systems, including numerical approaches based on tensor networks, TDVP, and DMRG.
 
 ## Differential Topology
 
@@ -14,7 +14,7 @@ I am interested in differential-topological methods and their applications to pr
 
 ## Dynamical Systems
 
-I am broadly interested in dynamical systems, especially the relationship between qualitative behavior, invariant structures, stability, and long-time dynamics. I am interested in both classical and quantum settings, including flows, critical points, gradient-like dynamics, and the emergence of geometric structure from evolution equations.
+I am interested in dynamical systems, especially the relationship between qualitative behavior, invariant structures, stability, and long-time dynamics. This includes classical and quantum settings, including flows, critical points, gradient-like dynamics, and the emergence of geometric structure from evolution equations.
 
 ## Current Research
 
