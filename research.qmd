@@ -14,7 +14,7 @@ I am interested in differential-topological methods and their applications to pr
 
 ## Dynamical Systems
 
-I am interested in dynamical systems, especially the relationship between qualitative behavior, invariant structures, stability, and long-time dynamics. This includes classical and quantum settings, including flows, critical points, gradient-like dynamics, and the emergence of geometric structure from evolution equations.
+I am interested in dynamical systems, especially the relationship between qualitative behavior, invariant structures, stability, and long-time dynamics. This includes flows, critical points, gradient-like dynamics, and the emergence of geometric structure from evolution equations.
 
 ## Current Research
 
