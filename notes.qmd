@@ -2,4 +2,28 @@
 title: "Notes"
 ---
 
-*Coming soon.*
+A collection of lecture notes on topics in mathematical physics and analysis. Notes will be added as they are completed.
+
+---
+
+## Quantum States and Dynamics
+
+*Notes in preparation.*
+
+---
+
+## Differential Topology
+
+*Notes in preparation.*
+
+---
+
+## Functional Analysis
+
+*Notes in preparation.*
+
+---
+
+## Quantum Transport
+
+*Notes in preparation.*
