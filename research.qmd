@@ -10,7 +10,7 @@ I am interested in open quantum systems, including master equations, quantum cha
 
 ## Differential Topology
 
-I am interested in differential-topological methods and their applications to problems in physics. In particular, I am interested in how geometric structure, regular values, transversality, critical sets, and manifold methods can clarify the behavior of dynamical systems. My current interests include ways in which such tools can be used to study structured subsets of quantum state space.
+I am interested in differential-topological methods and their applications to problems in physics. In particular, I am interested in how geometric structure, regular values, transversality, critical sets, and manifold methods can clarify the behavior of dynamical systems. More broadly, I am interested in ways such tools can be used to study structured subsets of quantum state space.
 
 ## Dynamical Systems
 
@@ -20,4 +20,4 @@ I am interested in dynamical systems, especially the relationship between qualit
 
 My current work concerns quantum speed limits for observable dynamics. In contrast to approaches based primarily on distinguishability between quantum states, this perspective focuses on the rate at which physically measurable quantities change in time.
 
-I am currently studying extensions of observable-based quantum speed limits to Markovian open quantum systems. The goal is to understand how coherent Hamiltonian evolution and dissipative environmental effects contribute separately to observable motion. This includes studying conditions under which an observable has vanishing speed, how dissipative terms modify closed-system bounds, and how geometric structure in quantum state space can be used to characterize special dynamical regimes.
+I am currently studying extensions of observable-based quantum speed limits to time-local open quantum dynamics. The goal is to understand how coherent Hamiltonian evolution and dissipative environmental effects contribute separately to observable motion. This includes studying conditions under which an observable has vanishing speed, and how dissipative terms modify closed-system bounds.

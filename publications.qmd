@@ -15,5 +15,5 @@ No preprints at this time.
 
 ## Manuscripts in Preparation
 
-1. Michael J. Moody and Sebastian Deffner.
-"Quantum speed limit for observables in Markovian open quantum systems."
+1. Michael J. Moody, Tara Kalsi, and Sebastian Deffner.
+"Quantum speed limit for observables in time-local open quantum dynamics."
