@@ -6,19 +6,19 @@ A collection of lecture notes on topics in mathematical physics and analysis. No
 
 ---
 
-## Quantum States and Dynamics
+## Time-Local Open Quantum Dynamics
 
 *Notes in preparation.*
 
 ---
 
-## Differential Topology
+## Operator Semigroups and Evolution Equations
 
 *Notes in preparation.*
 
 ---
 
-## Functional Analysis
+## Differential Topology of Matrix Groups and Observable Orbits
 
 *Notes in preparation.*
 
