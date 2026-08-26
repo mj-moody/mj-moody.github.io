@@ -25,7 +25,7 @@
     "href": "publications.html#manuscripts-in-preparation",
     "title": "Publications",
     "section": "Manuscripts in Preparation",
-    "text": "Manuscripts in Preparation\n\nMichael J. Moody, Tara Kalsi, and Sebastian Deffner. “Quantum speed limit for observables in time-local open quantum dynamics.”"
+    "text": "Manuscripts in Preparation\n\nMichael J. Moody, Tara Kalsi, Agung Budiyono, and Sebastian Deffner. “Quantum speed limits for einselection in non-Markovian quantum dynamics.”"
   },
   {
     "objectID": "index.html",
@@ -74,14 +74,14 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Coming soon."
+    "text": "PHYS 202-012: Introductory Physics II\nUniversity of Delaware, Department of Physics and Astronomy, Fall 2026.\nDiscussion Teaching Assistant. Fridays, 12:40–1:35 p.m. and 1:50–2:45 p.m."
   },
   {
     "objectID": "teaching.html#teaching-assistantships",
     "href": "teaching.html#teaching-assistantships",
     "title": "Teaching",
     "section": "",
-    "text": "Coming soon."
+    "text": "PHYS 202-012: Introductory Physics II\nUniversity of Delaware, Department of Physics and Astronomy, Fall 2026.\nDiscussion Teaching Assistant. Fridays, 12:40–1:35 p.m. and 1:50–2:45 p.m."
   },
   {
     "objectID": "teaching.html#resources-for-students",
@@ -130,7 +130,7 @@
     "href": "research.html#current-research",
     "title": "Research",
     "section": "Current Research",
-    "text": "Current Research\nMy current work concerns quantum speed limits for observable dynamics. In contrast to approaches based primarily on distinguishability between quantum states, this perspective focuses on the rate at which physically measurable quantities change in time.\nI am currently studying extensions of observable-based quantum speed limits to time-local open quantum dynamics. The goal is to understand how coherent Hamiltonian evolution and dissipative environmental effects contribute separately to observable motion, and how dissipative terms modify closed-system bounds.\nA related question is the role of environmental memory. For a time-local generator written in canonical form, a negative decay rate signals the breakdown of CP-divisibility, and I am interested in whether such departures from divisible dynamics can enhance the speed of a chosen observable rather than simply reverse the direction of its motion.\nI am also beginning to study the geometry underlying observable speed. Holding the spectrum of an observable fixed confines it to a manifold of isospectral operators, and I am interested in what the geometry of that manifold says about the dynamics."
+    "text": "Current Research\nMy current work concerns quantum speed limits for observable dynamics. In contrast to approaches based primarily on distinguishability between quantum states, this perspective focuses on the rate at which physically measurable quantities change in time.\nI am currently studying how observable-based quantum speed limits constrain einselection, the environment-induced selection of a preferred pointer basis. Casting the emergence of pointer states as the motion of an observable places a bound on how quickly a system can be driven toward classicality, and separates the coherent Hamiltonian contribution from the dissipative one.\nI am especially interested in the non-Markovian regime. For a time-local generator written in canonical form, a negative decay rate signals the breakdown of CP-divisibility, and such departures from divisible dynamics can return information to the system. I am interested in whether this memory accelerates or delays the selection of a pointer basis relative to the divisible case.\nI am also beginning to study the geometry underlying observable speed. Holding the spectrum of an observable fixed confines it to a manifold of isospectral operators, and I am interested in what the geometry of that manifold says about the dynamics."
   },
   {
     "objectID": "talks.html",

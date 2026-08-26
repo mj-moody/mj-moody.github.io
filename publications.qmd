@@ -15,5 +15,5 @@ No preprints at this time.
 
 ## Manuscripts in Preparation
 
-1. Michael J. Moody, Tara Kalsi, and Sebastian Deffner.
-"Quantum speed limit for observables in time-local open quantum dynamics."
+1. Michael J. Moody, Tara Kalsi, Agung Budiyono, and Sebastian Deffner.
+"Quantum speed limits for einselection in non-Markovian quantum dynamics."
