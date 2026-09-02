@@ -10,7 +10,8 @@ title: "Teaching"
 
 ## Resources for Students
 
-*Coming soon.*
+- **[PHYS 202: Introductory Physics II](phys202.qmd)**\
+  Weekly discussion notes and solutions, Fall 2026.
 
 ## Tutoring
 

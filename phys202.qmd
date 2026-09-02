@@ -1,0 +1,20 @@
+---
+title: "PHYS 202: Introductory Physics II"
+---
+
+Discussion section materials for PHYS 202-012, University of Delaware, Fall 2026.\
+Sections meet Fridays, 12:40–1:35 p.m. and 1:50–2:45 p.m.
+
+Each week I post notes on the discussion assignment at the start of the week, and worked solutions at the end of the week. A dash in the solutions column means that week's solutions have not been posted yet.
+
+---
+
+## Weekly Materials
+
+| Week | Topic | Notes | Solutions |
+|:-----|:------|:------|:----------|
+| 2 | Wave Properties | [Notes](files/phys202/week02_notes.pdf) | — |
+
+---
+
+These materials supplement, and do not replace, the course lecture and textbook. If you spot an error, please let me know at [mjmoody@udel.edu](mailto:mjmoody@udel.edu).
