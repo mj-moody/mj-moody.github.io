@@ -1,31 +1,59 @@
 [
   {
-    "objectID": "phys202.html",
-    "href": "phys202.html",
-    "title": "PHYS 202: Introductory Physics II",
+    "objectID": "phys809.html",
+    "href": "phys809.html",
+    "title": "PHYS 809: Electrodynamics I",
     "section": "",
-    "text": "Discussion section materials for PHYS 202-012, University of Delaware, Fall 2026.\nSections meet Fridays, 12:40–1:35 p.m. and 1:50–2:45 p.m.\nEach week I post notes on the discussion assignment at the start of the week, and worked solutions at the end of the week. A dash in the solutions column means that week’s solutions have not been posted yet."
+    "text": "Graduate coursework, University of Delaware, Fall 2026."
   },
   {
-    "objectID": "phys202.html#weekly-materials",
-    "href": "phys202.html#weekly-materials",
-    "title": "PHYS 202: Introductory Physics II",
-    "section": "Weekly Materials",
-    "text": "Weekly Materials\n\n\n\nWeek\nTopic\nNotes\nSolutions\n\n\n\n\n2\nWave Properties\nNotes\n—\n\n\n\n\nThese materials supplement, and do not replace, the course lecture and textbook. If you spot an error, please let me know at mjmoody@udel.edu."
+    "objectID": "phys809.html#materials",
+    "href": "phys809.html#materials",
+    "title": "PHYS 809: Electrodynamics I",
+    "section": "Materials",
+    "text": "Materials\nComing soon."
   },
   {
-    "objectID": "miscellaneous.html",
-    "href": "miscellaneous.html",
-    "title": "Miscellaneous",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
-    "text": "This page collects selected academic material that does not fit neatly into publications, talks, or formal notes. This includes selected undergraduate work, reading programs, and research-adjacent academic material."
+    "text": "Agung Budiyono, Michael Moody, Hadyan L. Prihadi, Rafika Rahmawati, and Sebastian Deffner. “Quantum speed limit for observables from quantum asymmetry” Physical Review A 113, 042450 (2026). [arXiv:2511.16526]"
   },
   {
-    "objectID": "miscellaneous.html#selected-undergraduate-work",
-    "href": "miscellaneous.html#selected-undergraduate-work",
-    "title": "Miscellaneous",
-    "section": "Selected Undergraduate Work",
-    "text": "Selected Undergraduate Work\n\nThickness-Dependent Photoluminescence in Exfoliated WSe₂ PHYS 431L, University of Maryland, Baltimore County, May 2026. Presentation on optical evidence for monolayer WSe₂ using photoluminescence spectroscopy and A-exciton emission. Slides"
+    "objectID": "publications.html#peer-reviewed-articles",
+    "href": "publications.html#peer-reviewed-articles",
+    "title": "Publications",
+    "section": "",
+    "text": "Agung Budiyono, Michael Moody, Hadyan L. Prihadi, Rafika Rahmawati, and Sebastian Deffner. “Quantum speed limit for observables from quantum asymmetry” Physical Review A 113, 042450 (2026). [arXiv:2511.16526]"
+  },
+  {
+    "objectID": "publications.html#preprints",
+    "href": "publications.html#preprints",
+    "title": "Publications",
+    "section": "Preprints",
+    "text": "Preprints\nNo preprints at this time."
+  },
+  {
+    "objectID": "publications.html#manuscripts-in-preparation",
+    "href": "publications.html#manuscripts-in-preparation",
+    "title": "Publications",
+    "section": "Manuscripts in Preparation",
+    "text": "Manuscripts in Preparation\n\nMichael J. Moody, Tara Kalsi, Agung Budiyono, and Sebastian Deffner. “Quantum speed limits for einselection in non-Markovian quantum dynamics.”"
+  },
+  {
+    "objectID": "phys812.html",
+    "href": "phys812.html",
+    "title": "PHYS 812: Quantum Mechanics II",
+    "section": "",
+    "text": "Graduate coursework, University of Delaware, Fall 2026."
+  },
+  {
+    "objectID": "phys812.html#materials",
+    "href": "phys812.html#materials",
+    "title": "PHYS 812: Quantum Mechanics II",
+    "section": "Materials",
+    "text": "Materials\n\n\n\nAssignment\nTopics\nDocument\n\n\n\n\nHomework 1\nDelta-function potentials, the generalized uncertainty relation, degeneracy, spin filters, angular momentum\nProblems and solutions"
   },
   {
     "objectID": "talks.html",
@@ -33,6 +61,48 @@
     "title": "Talks",
     "section": "",
     "text": "Coming soon."
+  },
+  {
+    "objectID": "phys650.html",
+    "href": "phys650.html",
+    "title": "PHYS 650: Introduction to Quantum Computation and Quantum Information",
+    "section": "",
+    "text": "Graduate coursework, University of Delaware, Fall 2026."
+  },
+  {
+    "objectID": "phys650.html#materials",
+    "href": "phys650.html#materials",
+    "title": "PHYS 650: Introduction to Quantum Computation and Quantum Information",
+    "section": "Materials",
+    "text": "Materials\nComing soon."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "PHYS 202-012: Introductory Physics II\nUniversity of Delaware, Department of Physics and Astronomy, Fall 2026.\nDiscussion Teaching Assistant. Fridays, 12:40–1:35 p.m. and 1:50–2:45 p.m."
+  },
+  {
+    "objectID": "teaching.html#teaching-assistantships",
+    "href": "teaching.html#teaching-assistantships",
+    "title": "Teaching",
+    "section": "",
+    "text": "PHYS 202-012: Introductory Physics II\nUniversity of Delaware, Department of Physics and Astronomy, Fall 2026.\nDiscussion Teaching Assistant. Fridays, 12:40–1:35 p.m. and 1:50–2:45 p.m."
+  },
+  {
+    "objectID": "teaching.html#resources-for-students",
+    "href": "teaching.html#resources-for-students",
+    "title": "Teaching",
+    "section": "Resources for Students",
+    "text": "Resources for Students\n\nPHYS 202: Introductory Physics II\nWeekly discussion notes and solutions, Fall 2026."
+  },
+  {
+    "objectID": "teaching.html#tutoring",
+    "href": "teaching.html#tutoring",
+    "title": "Teaching",
+    "section": "Tutoring",
+    "text": "Tutoring\nPrivate tutoring in mathematics and physics may be available upon request."
   },
   {
     "objectID": "research.html",
@@ -68,34 +138,6 @@
     "title": "Research",
     "section": "Current Research",
     "text": "Current Research\nMy current work concerns quantum speed limits for observable dynamics. In contrast to approaches based primarily on distinguishability between quantum states, this perspective focuses on the rate at which physically measurable quantities change in time.\nI am currently studying how observable-based quantum speed limits constrain einselection, the environment-induced selection of a preferred pointer basis. Casting the emergence of pointer states as the motion of an observable places a bound on how quickly a system can be driven toward classicality, and separates the coherent Hamiltonian contribution from the dissipative one.\nI am especially interested in the non-Markovian regime. For a time-local generator written in canonical form, a negative decay rate signals the breakdown of CP-divisibility, and such departures from divisible dynamics can return information to the system. I am interested in whether this memory accelerates or delays the selection of a pointer basis relative to the divisible case.\nI am also beginning to study the geometry underlying observable speed. Holding the spectrum of an observable fixed confines it to a manifold of isospectral operators, and I am interested in what the geometry of that manifold says about the dynamics."
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "PHYS 202-012: Introductory Physics II\nUniversity of Delaware, Department of Physics and Astronomy, Fall 2026.\nDiscussion Teaching Assistant. Fridays, 12:40–1:35 p.m. and 1:50–2:45 p.m."
-  },
-  {
-    "objectID": "teaching.html#teaching-assistantships",
-    "href": "teaching.html#teaching-assistantships",
-    "title": "Teaching",
-    "section": "",
-    "text": "PHYS 202-012: Introductory Physics II\nUniversity of Delaware, Department of Physics and Astronomy, Fall 2026.\nDiscussion Teaching Assistant. Fridays, 12:40–1:35 p.m. and 1:50–2:45 p.m."
-  },
-  {
-    "objectID": "teaching.html#resources-for-students",
-    "href": "teaching.html#resources-for-students",
-    "title": "Teaching",
-    "section": "Resources for Students",
-    "text": "Resources for Students\n\nPHYS 202: Introductory Physics II\nWeekly discussion notes and solutions, Fall 2026."
-  },
-  {
-    "objectID": "teaching.html#tutoring",
-    "href": "teaching.html#tutoring",
-    "title": "Teaching",
-    "section": "Tutoring",
-    "text": "Tutoring\nPrivate tutoring in mathematics and physics may be available upon request."
   },
   {
     "objectID": "notes.html",
@@ -137,34 +179,41 @@
     "href": "index.html",
     "title": "Michael J. Moody",
     "section": "",
-    "text": "I am beginning a physics PhD at the University of Delaware this fall. I completed my BS in physics and mathematics at the University of Maryland, Baltimore County.\n    My research interests lie broadly in open quantum systems, differential topology, dynamical systems, and mathematical physics. I am especially interested in problems where physical intuition can be sharpened through rigorous mathematical structure.\n    I am currently working on problems related to observable dynamics in open quantum systems, with emphasis on coherent and dissipative contributions to quantum speed limits.\n    \n    \n      mjmoody@udel.edu\n      Google Scholar\n      GitHub\n      CV"
+    "text": "I am beginning a physics PhD at the University of Delaware this fall. I completed my BS in physics at the University of Maryland, Baltimore County.\n    My research interests lie broadly in open quantum systems, differential topology, dynamical systems, and mathematical physics. I am especially interested in problems where physical intuition can be sharpened through rigorous mathematical structure.\n    I am currently working on problems related to observable dynamics in open quantum systems, with emphasis on coherent and dissipative contributions to quantum speed limits.\n    \n    \n      mjmoody@udel.edu\n      Google Scholar\n      GitHub\n      CV"
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
+    "objectID": "miscellaneous.html",
+    "href": "miscellaneous.html",
+    "title": "Miscellaneous",
     "section": "",
-    "text": "Agung Budiyono, Michael Moody, Hadyan L. Prihadi, Rafika Rahmawati, and Sebastian Deffner. “Quantum speed limit for observables from quantum asymmetry” Physical Review A 113, 042450 (2026). [arXiv:2511.16526]"
+    "text": "This page collects selected academic material that does not fit neatly into publications, talks, or formal notes. This includes selected graduate and undergraduate work, reading programs, and research-adjacent academic material."
   },
   {
-    "objectID": "publications.html#peer-reviewed-articles",
-    "href": "publications.html#peer-reviewed-articles",
-    "title": "Publications",
+    "objectID": "miscellaneous.html#selected-graduate-work",
+    "href": "miscellaneous.html#selected-graduate-work",
+    "title": "Miscellaneous",
+    "section": "Selected Graduate Work",
+    "text": "Selected Graduate Work\nCoursework materials from my graduate courses at the University of Delaware.\n\nPHYS 812: Quantum Mechanics II\nFall 2026.\nPHYS 809: Electrodynamics I\nFall 2026.\nPHYS 650: Introduction to Quantum Computation and Quantum Information\nFall 2026."
+  },
+  {
+    "objectID": "miscellaneous.html#selected-undergraduate-work",
+    "href": "miscellaneous.html#selected-undergraduate-work",
+    "title": "Miscellaneous",
+    "section": "Selected Undergraduate Work",
+    "text": "Selected Undergraduate Work\n\nThickness-Dependent Photoluminescence in Exfoliated WSe₂ PHYS 431L, University of Maryland, Baltimore County, May 2026. Presentation on optical evidence for monolayer WSe₂ using photoluminescence spectroscopy and A-exciton emission. Slides"
+  },
+  {
+    "objectID": "phys202.html",
+    "href": "phys202.html",
+    "title": "PHYS 202: Introductory Physics II",
     "section": "",
-    "text": "Agung Budiyono, Michael Moody, Hadyan L. Prihadi, Rafika Rahmawati, and Sebastian Deffner. “Quantum speed limit for observables from quantum asymmetry” Physical Review A 113, 042450 (2026). [arXiv:2511.16526]"
+    "text": "Discussion section materials for PHYS 202-012, University of Delaware, Fall 2026.\nSections meet Fridays, 12:40–1:35 p.m. and 1:50–2:45 p.m.\nEach week I post notes on the discussion assignment at the start of the week, and worked solutions at the end of the week. A dash in the solutions column means that week’s solutions have not been posted yet."
   },
   {
-    "objectID": "publications.html#preprints",
-    "href": "publications.html#preprints",
-    "title": "Publications",
-    "section": "Preprints",
-    "text": "Preprints\nNo preprints at this time."
-  },
-  {
-    "objectID": "publications.html#manuscripts-in-preparation",
-    "href": "publications.html#manuscripts-in-preparation",
-    "title": "Publications",
-    "section": "Manuscripts in Preparation",
-    "text": "Manuscripts in Preparation\n\nMichael J. Moody, Tara Kalsi, Agung Budiyono, and Sebastian Deffner. “Quantum speed limits for einselection in non-Markovian quantum dynamics.”"
+    "objectID": "phys202.html#weekly-materials",
+    "href": "phys202.html#weekly-materials",
+    "title": "PHYS 202: Introductory Physics II",
+    "section": "Weekly Materials",
+    "text": "Weekly Materials\n\n\n\nWeek\nTopic\nNotes\nSolutions\n\n\n\n\n2\nWave Properties\nNotes\n—\n\n\n\n\nThese materials supplement, and do not replace, the course lecture and textbook. If you spot an error, please let me know at mjmoody@udel.edu."
   }
 ]

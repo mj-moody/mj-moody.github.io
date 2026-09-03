@@ -2,7 +2,20 @@
 title: "Miscellaneous"
 ---
 
-This page collects selected academic material that does not fit neatly into publications, talks, or formal notes. This includes selected undergraduate work, reading programs, and research-adjacent academic material.
+This page collects selected academic material that does not fit neatly into publications, talks, or formal notes. This includes selected graduate and undergraduate work, reading programs, and research-adjacent academic material.
+
+## Selected Graduate Work
+
+Coursework materials from my graduate courses at the University of Delaware.
+
+- **[PHYS 812: Quantum Mechanics II](phys812.qmd)**\
+  Fall 2026.
+
+- **[PHYS 809: Electrodynamics I](phys809.qmd)**\
+  Fall 2026.
+
+- **[PHYS 650: Introduction to Quantum Computation and Quantum Information](phys650.qmd)**\
+  Fall 2026.
 
 ## Selected Undergraduate Work
 
