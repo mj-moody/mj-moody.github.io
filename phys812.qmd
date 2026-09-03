@@ -10,4 +10,4 @@ Graduate coursework, University of Delaware, Fall 2026.
 
 | Assignment | Topics | Document |
 |:-----------|:-------|:---------|
-| Homework 1 | Delta-function potentials, the generalized uncertainty relation, degeneracy, spin filters, angular momentum | [Problems and solutions](files/phys812/hw01.pdf) |
+| 1 | Delta-function potentials, the generalized uncertainty relation, degeneracy, spin filters, angular momentum | [Problems and solutions](files/phys812/assignment01.pdf) |
