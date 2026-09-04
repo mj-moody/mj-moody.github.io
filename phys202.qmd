@@ -13,7 +13,7 @@ Each week I post notes on the discussion assignment at the start of the week, an
 
 | Week | Topic | Notes | Solutions |
 |:-----|:------|:------|:----------|
-| 2 | Wave Properties | [Notes](files/phys202/week02_notes.pdf) | — |
+| 2 | Wave Properties | [Notes](files/phys202/week02_notes.pdf) | [Solutions](files/phys202/week02_solutions.pdf) |
 
 ---
 
