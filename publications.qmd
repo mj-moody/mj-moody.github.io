@@ -11,9 +11,11 @@ title: "Publications"
 
 ## Preprints
 
-No preprints at this time.
+1. Michael J. Moody, Tara Kalsi, Agung Budiyono, and Sebastian Deffner.
+"Procrastinating einselection in non-Markovian quantum dynamics."
+Submitted to *New Journal of Physics* (2026).
+\[[arXiv:2609.20757](https://arxiv.org/abs/2609.20757)\]
 
 ## Manuscripts in Preparation
 
-1. Michael J. Moody, Tara Kalsi, Agung Budiyono, and Sebastian Deffner.
-"Quantum speed limits for einselection in non-Markovian quantum dynamics."
+No manuscripts in preparation at this time.

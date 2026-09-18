@@ -2,26 +2,32 @@
 title: "Research"
 ---
 
-My research interests are centered on mathematical and theoretical questions in quantum dynamics. I am especially interested in problems where physical intuition, analytic structure, and geometric methods interact.
+My research interests are centered on theoretical and computational questions in quantum dynamics, ranging from foundational questions about open-system evolution to nonequilibrium transport in magnetic materials. I am especially interested in problems where physical intuition, analytic structure, and geometric methods interact.
 
 ## Open Quantum Systems
 
-I am interested in open quantum systems, including master equations, quantum channels, dissipation, and the distinction between coherent and environmental contributions to quantum evolution. I am particularly interested in how properties of observables evolve under open-system dynamics, and how this evolution can be bounded or characterized using tools from quantum information theory and mathematical physics. As a supporting direction, I am interested in computational methods for quantum systems, including numerical approaches based on tensor networks, TDVP, and DMRG.
+I am interested in open quantum systems, including master equations, quantum channels, dissipation, and the distinction between coherent and environmental contributions to quantum evolution. I am particularly interested in how properties of observables evolve under open-system dynamics, and how this evolution can be bounded or characterized using tools from quantum information theory and mathematical physics. I am also drawn to driven-dissipative settings, where competition between coherent driving and environmental loss can stabilize steady states that neither would produce alone. As a supporting direction, I am interested in computational methods for quantum systems, including numerical approaches based on tensor networks, TDVP, and DMRG.
 
 ## Differential Topology
 
-I am interested in differential-topological methods and their applications to problems in physics. In particular, I am interested in how geometric structure, regular values, transversality, critical sets, and manifold methods can clarify the behavior of dynamical systems. More broadly, I am interested in ways such tools can be used to study structured subsets of quantum state space.
+I am interested in differential-topological methods and their applications to problems in physics. In particular, I am interested in how geometric structure, regular values, transversality, critical sets, and manifold methods can clarify the behavior of dynamical systems. Magnetic skyrmions are a concrete instance, where an integer topological charge classifies a spin texture and protects it against smooth deformation. More broadly, I am interested in ways such tools can be used to study structured subsets of quantum state space.
 
 ## Dynamical Systems
 
-I am interested in dynamical systems, especially the relationship between qualitative behavior, invariant structures, stability, and long-time dynamics. This includes flows, critical points, gradient-like dynamics, and the emergence of geometric structure from evolution equations.
+I am interested in dynamical systems, especially the relationship between qualitative behavior, invariant structures, stability, and long-time dynamics. This includes flows, critical points, gradient-like dynamics, and the emergence of geometric structure from evolution equations. Landau-Lifshitz-Gilbert dynamics for classical spin textures is one setting where these questions take a concrete form.
 
 ## Current Research
 
-My current work concerns quantum speed limits for observable dynamics. In contrast to approaches based primarily on distinguishability between quantum states, this perspective focuses on the rate at which physically measurable quantities change in time.
+My current work concerns spintronics and quantum transport in magnetic textures driven far from equilibrium. A magnetic skyrmion is a topologically protected spin texture, and when a lattice hosting one is attached to leads and driven by a bias voltage or a pulse, electron transport and the motion of the texture become coupled to each other. I am interested in how such textures move in response to current, and in the charge and spin currents they pump in return.
 
-I am currently studying how observable-based quantum speed limits constrain einselection, the environment-induced selection of a preferred pointer basis. Casting the emergence of pointer states as the motion of an observable places a bound on how quickly a system can be driven toward classicality, and separates the coherent Hamiltonian contribution from the dissipative one.
+Following this requires treating the electronic and magnetic degrees of freedom on equal footing in time. I am working with multiscale approaches that couple time-dependent nonequilibrium Green's function methods for the electrons to Landau-Lifshitz-Gilbert dynamics for the classical spins, so that neither subsystem is reduced to a fixed background for the other. On the transport side, I am interested in benchmarking transient dynamics against exactly solvable limits such as the Anderson impurity model, where analytic results are available for comparison.
 
-I am especially interested in the non-Markovian regime. For a time-local generator written in canonical form, a negative decay rate signals the breakdown of CP-divisibility, and such departures from divisible dynamics can return information to the system. I am interested in whether this memory accelerates or delays the selection of a pointer basis relative to the divisible case.
+I remain interested in dissipative many-body dynamics. In Heisenberg spin chains, I am interested in how entanglement is generated and destroyed under simultaneous driving and dissipation, and in whether a nonequilibrium steady state can sustain entanglement rather than relax to a trivial one.
 
-I am also beginning to study the geometry underlying observable speed. Holding the spectrum of an observable fixed confines it to a manifold of isospectral operators, and I am interested in what the geometry of that manifold says about the dynamics.
+A related foundational question concerns the structure of the Lindblad equation itself. The Lindblad form is often written down phenomenologically, with jump operators chosen for convenience, and I am interested in what microscopic derivations genuinely constrain about those operators, and when a phenomenological choice corresponds to a physically realizable system-environment coupling.
+
+I am also continuing to study the geometry underlying observable speed. Holding the spectrum of an observable fixed confines it to a manifold of isospectral operators, and I am interested in what the geometry of that manifold says about the dynamics.
+
+## Previous Research
+
+My earlier work concerned quantum speed limits for observable dynamics, which bound the rate at which physically measurable quantities change rather than the rate at which states become distinguishable. Applied to einselection in time-local open dynamics, this perspective shows that non-Markovian memory can postpone the emergence of pointer states, delaying the onset of classical behavior relative to divisible dynamics.
