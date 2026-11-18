@@ -30,4 +30,4 @@ I am also continuing to study the geometry underlying observable speed. Holding 
 
 ## Previous Research
 
-My earlier work concerned quantum speed limits for observable dynamics, which bound the rate at which physically measurable quantities change rather than the rate at which states become distinguishable. Applied to einselection in time-local open dynamics, this perspective shows that non-Markovian memory can postpone the emergence of pointer states, delaying the onset of classical behavior relative to divisible dynamics.
+My earlier work concerned quantum speed limits for observable dynamics, which bound the rate at which physically measurable quantities change rather than the rate at which states become distinguishable. Applied to einselection in time-local open dynamics, this perspective shows that non-Markovian memory can postpone the emergence of pointer states, delaying the onset of classical behavior relative to divisible dynamics. This work has been accepted for publication in *Frontiers in Quantum Science and Technology*.

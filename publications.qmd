@@ -4,17 +4,19 @@ title: "Publications"
 
 ## Peer-Reviewed Articles
 
-1. Agung Budiyono, Michael Moody, Hadyan L. Prihadi, Rafika Rahmawati, and Sebastian Deffner.
+1. Michael J. Moody, Tara Kalsi, Agung Budiyono, and Sebastian Deffner.
+"Procrastinating einselection in non-Markovian quantum dynamics."
+*Frontiers in Quantum Science and Technology*, accepted for publication (2026).
+\[[arXiv:2609.20757](https://arxiv.org/abs/2609.20757)\]
+
+2. Agung Budiyono, Michael Moody, Hadyan L. Prihadi, Rafika Rahmawati, and Sebastian Deffner.
 "[Quantum speed limit for observables from quantum asymmetry](https://journals.aps.org/pra/abstract/10.1103/tfnt-58sw)"
 *Physical Review A* **113**, 042450 (2026).
 \[[arXiv:2511.16526](https://arxiv.org/abs/2511.16526)\]
 
 ## Preprints
 
-1. Michael J. Moody, Tara Kalsi, Agung Budiyono, and Sebastian Deffner.
-"Procrastinating einselection in non-Markovian quantum dynamics."
-Submitted to *New Journal of Physics* (2026).
-\[[arXiv:2609.20757](https://arxiv.org/abs/2609.20757)\]
+No preprints at this time.
 
 ## Manuscripts in Preparation
 
